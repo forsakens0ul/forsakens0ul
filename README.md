@@ -61,23 +61,27 @@
 ## 🌐 Links
 
 
-- 🏠 [My Site](https://www.chalice.lol/)
+- 🏠 [My Site](https://www.chalice.lol/
+<p align="center">
+  <strong>My Site 截图</strong><br/>
+  <img src="https://github.com/forsakens0ul/image/blob/main/profile.png" width="400" alt="My Site 截图"/>
+</p>
+
+
 - 📷 [SkyPixel Photo摄影主页](https://www.skypixel.com/users/193aa5a)
+<p align="center">
+  <strong>SkyPixel Photo 截图</strong><br/>
+  <img src="https://github.com/forsakens0ul/image/blob/main/photo.png" width="400" alt="SkyPixel Photo 截图"/>
+</p> 
+
 - 📰 微信公众号：
 
 <p align="center">
   <img src="https://github.com/forsakens0ul/image/blob/main/wechatQR.jpg" width="160" alt="公众号二维码"/>
 </p>
 
-<p align="center">
-  <strong>My Site 截图</strong><br/>
-  <img src="https://github.com/forsakens0ul/image/blob/main/profile.png" width="400" alt="My Site 截图"/>
-</p>
 
-<p align="center">
-  <strong>SkyPixel Photo 截图</strong><br/>
-  <img src="https://github.com/forsakens0ul/image/blob/main/photo.png" width="400" alt="SkyPixel Photo 截图"/>
-</p> 
+
 ---
 
 ## 🎮 My Steam Card
