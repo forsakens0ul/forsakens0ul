@@ -2,7 +2,7 @@
   <img src="https://github.com/forsakens0ul/image/blob/main/doro.gif" width="120" style="border-radius: 50%" alt="profile"/>
 </p>
 
-<h1 align="center">Hi, I'm forsakens0ul 👾</h1>
+<h1 align="center">Hi, I'm forsakens0ul </h1>
 <p align="center"><i>Dev • Photographer • Player</i></p>
 
 ---
@@ -55,24 +55,35 @@
     </td>
   </tr>
 </table> 
+
+---
+
+## 🌐 Links
+
+
+- 🏠 [My Site](https://www.chalice.lol/)
+- 📷 [SkyPixel Photo摄影主页](https://www.skypixel.com/users/193aa5a)
+- 📰 微信公众号：
+
+<p align="center">
+  <img src="https://github.com/forsakens0ul/image/blob/main/wechatQR.jpg" width="160" alt="公众号二维码"/>
+</p>
+
+<p align="center">
+  <strong>My Site 截图</strong><br/>
+  <img src="https://github.com/forsakens0ul/image/blob/main/profile.png" width="400" alt="My Site 截图"/>
+</p>
+
+<p align="center">
+  <strong>SkyPixel Photo 截图</strong><br/>
+  <img src="https://github.com/forsakens0ul/image/blob/main/photo.png" width="400" alt="SkyPixel Photo 截图"/>
+</p> 
 ---
 
 ## 🎮 My Steam Card
 
 <p align="center">
   <img src="https://card.yuy1n.io/card/76561198314348996/dark,en,badge,group" alt="Steam Card" />
-</p>
-
----
-
-## 🌐 Links
-
-- 🏠 [My Site](https://www.chalice.lol/)
-- 📷 [SkyPixel 摄影主页](https://www.skypixel.com/users/193aa5a)
-- 📰 微信公众号：
-
-<p align="center">
-  <img src="https://github.com/forsakens0ul/assets/raw/main/wechat-qrcode.png" width="160" alt="公众号二维码"/>
 </p>
 
 ---
@@ -97,7 +108,7 @@ cl_crosshaircolor 4;
 ### 🖱 Mouse Settings
 | 设置 | 数值 |
 |---|---|
-| 鼠标 | Pulsar ZywOo The Chosen Mouse Black |
+| 鼠标 | VT9PRO |
 | DPI | 400 |
 | 灵敏度 | 2 |
 | eDPI | 800 |
@@ -152,20 +163,18 @@ cl_bobcycle 0.98;
 | 模糊/三屏 | 关闭 |
 | Uber Shaders | 开启 |
 
-### 🖥 显示器设置（ZOWIE XL2546K）
+### 🖥 显示器设置（PANDA 280HZ 0.5ms 1080P）
 | 项目 | 设置 |
 |---|---|
-| 模式 | FPS 1 |
 | 亮度 | 75 |
 | 对比度 | 51 |
 | 清晰度 | 10 |
 | Gamma | 3 |
 | 色温 | 用户自定义（R:100 G:100 B:100） |
-| AMA / DyAc | Premium |
 | 黑色均衡 | 12 |
 | 色彩震动 | 20 |
 | 护眼 | 0 |
-| 快速模式 | 开启 |
+
 
 ---
 
