@@ -63,14 +63,14 @@
 
 - 🏠 [My Site](https://www.chalice.lol/
 <p align="center">
-  <strong>My Site 截图</strong><br/>
+
   <img src="https://github.com/forsakens0ul/image/blob/main/profile.png" width="400" alt="My Site 截图"/>
 </p>
 
 
 - 📷 [SkyPixel Photo摄影主页](https://www.skypixel.com/users/193aa5a)
 <p align="center">
-  <strong>SkyPixel Photo 截图</strong><br/>
+  
   <img src="https://github.com/forsakens0ul/image/blob/main/photo.png" width="400" alt="SkyPixel Photo 截图"/>
 </p> 
 
