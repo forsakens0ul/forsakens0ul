@@ -25,7 +25,7 @@
         <br/><strong>notion2device</strong>
       </a>
       <br/>
-      <a href="https://device.chalice.lol">🧪 好物推荐</a>
+      <a href="https://device.chalice.lol">🧪 notion管理好物推荐</a>
     </td>
     <td align="center">
       <a href="https://github.com/forsakens0ul/bazi_tool">
