@@ -53,6 +53,14 @@
       <br/>
       <a href="https://renge.chalice.lol/">🧪 人格症候测试</a>
     </td>
+      <td align="center">
+      <a href="https://github.com/forsakens0ul/coreader">
+        <img src="https://github.com/forsakens0ul/image/blob/main/coreader.png" width="220"/>
+        <br/><strong>coreader</strong>
+      </a>
+      <br/>
+      <a href="https://renge.chalice.lol/">🧪 CoReader开源阅读应用组件</a>
+    </td>
   </tr>
 </table> 
 
